@@ -1,4 +1,5 @@
 WorldWeatherPy
+seaborn
 joblib
 numpy
 pandas
