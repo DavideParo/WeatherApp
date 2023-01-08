@@ -17,6 +17,7 @@ Il progetto è stato sviluppato usando python 2.7.17 con i seguenti pacchetti:
 
 Installazione con pip: 
 
+```bash
 pip install -r requirements.txt
 
 ## Files
